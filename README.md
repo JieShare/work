@@ -1,5 +1,5 @@
 # 项目效果
-## APA车位识别算法(bev识别)
+## APA车位识别算法(ipm识别)
 
 https://youtu.be/WzvUJCJ7ylI
 
@@ -7,7 +7,7 @@ https://youtu.be/WzvUJCJ7ylI
 
 ![](img/psd.gif)
 
-## APA泊车-车位线重定位算法(bev识别)
+## APA泊车-车位线重定位算法(ipm识别)
 
 https://youtube.com/shorts/MxEy5XFT0Ds
 
